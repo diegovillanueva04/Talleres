@@ -1,0 +1,13 @@
+tipo:Prime:25000:175.0
+tipo:Corriente:15000:400.0
+tipo:Diesel:14000:300.0
+tipo:Plus:18000:350.0
+surtidor:Sofia:Prime:0.0:Corriente:0.0:Diesel:0.0:Plus:0.0
+surtidor:Rodrigo:Prime:0.0:Corriente:0.0:Diesel:0.0:Plus:0.0
+surtidor:Sofia:Prime:0.0:Corriente:0.0:Diesel:0.0:Plus:0.0
+surtidor:Rodrigo:Prime:25.0:Corriente:0.0:Diesel:0.0:Plus:0.0
+empleado:Laura:0
+empleado:Elber:0
+empleado:Sofia:0
+empleado:Fernando:0
+empleado:Rodrigo:625000
